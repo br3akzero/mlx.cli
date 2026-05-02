@@ -1,0 +1,8 @@
+.build/
+.agents/
+.DS_Store
+.swiftpm/
+xcuserdata/
+*.xcodeproj/
+DerivedData/
+*.dSYM
