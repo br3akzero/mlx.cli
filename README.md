@@ -1,4 +1,4 @@
-# mlx-cli
+# mlx.cli
 
 Standalone Swift CLI for running LLMs on Apple Silicon via MLX. Downloads models from HuggingFace Hub, runs inference natively via Metal, and serves an OpenAI-compatible API.
 
